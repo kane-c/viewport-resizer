@@ -3,7 +3,7 @@ HTTPS hosted Viewport Resizer by @maltewassermann
 
 Note at the time this was built, the official site for this did not support HTTPS. It appears that it now does, so there's no real need for this.
 
-It remains as a convenient source for the below pre-configured bookmarklet. It is configured with current devices and screen sizes as of April 2020. These presets include:
+It remains as a convenient source for the below pre-configured bookmarklet. It is configured with current devices and screen sizes as of November 2020. These presets include:
 
 * iPhone < 5, iPod Touch < 5th gen (320x480)
 * iPhone 5/5c/5s/SE 1st gen, iPod Touch 5th gen+ (320x568)
